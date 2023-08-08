@@ -27,3 +27,7 @@ Scale. Carry out data exploration on extremely large datasets interactively. You
 Shareability. You will be able to run queries on data from different datasets without any issues. BigQuery is a convenient way to share datasets. Of course, you can also keep your data private, or share them only with specific persons -- not all data need to be public.
 
 The end-result is that you will find if there are lesser bike rentals on rainy days.
+
+# Summary
+
+In this lab you did ad-hoc queries on two datasets. You were able to query the data without setting up any clusters, creating any indexes, etc. You were also able to mash up the two datasets and get some interesting insights. All without ever leaving your browser!
