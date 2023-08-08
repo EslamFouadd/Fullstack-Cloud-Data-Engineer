@@ -1,2 +1,1 @@
-# GCP-Vertex-AI-Bootcamp
-Creating (training and testing) ML models on Google Cloud Vertex AI.
+# GCP-Data-Engineering-Bootcamp
