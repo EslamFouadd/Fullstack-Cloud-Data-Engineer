@@ -11,3 +11,14 @@ WHERE
   EXTRACT(Month
   FROM
     pickup_datetime)=1;
+
+/* Find the longest distance traveled in the month of January: */
+#standardSQL
+SELECT
+  *
+FROM
+  nyctaxi.january_trips
+ORDER BY
+  trip_distance DESC
+LIMIT
+  1
